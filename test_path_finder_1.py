@@ -1,8 +1,5 @@
 import unittest
-
-import unittest
-
-from main import path_finder
+from path_finder_1 import path_finder
 
 maze_1 = "\n".join([
     ".W.",
